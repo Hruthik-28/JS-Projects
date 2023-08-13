@@ -9,3 +9,4 @@
 | Guess The Number     | [live demo](https://hruthik-28.github.io/JS-Projects/4_Guess%20The%20Number)      |
 | Keyboard Check       | [live demo](https://hruthik-28.github.io/JS-Projects/5_Keyboard%20Check)          |
 | Unlimited Colors     | [live demo](https://hruthik-28.github.io/JS-Projects/6_Unlimited%20Color)         |
+| Hit Bubble           | [live demo](https://hruthik-28.github.io/JS-Projects/7_Hit%20Bubble)              |
